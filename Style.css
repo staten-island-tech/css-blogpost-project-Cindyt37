@@ -1,11 +1,23 @@
 body {
-    background-color: rgb(56, 102, 255);
-    color: white;
-    font-size: 15px;
+    background-image: url(background.jpg);
 }
 
 h1 {
-    color:rgb(0, 21, 92);
+    margin-top: 50px;
+    text-align: center;
+    font-size: 35px;
+}
+
+mark.Alice-Blue {
+    background-color: aliceblue;
+    color: rgb(0, 0, 145);
+}
+mark.uh {
+    background-color: oldlace;
+}
+
+h2 {
+    text-align: center;
 }
 .main-header {
     color:aqua;

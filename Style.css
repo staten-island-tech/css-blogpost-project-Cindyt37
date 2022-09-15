@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(56, 102, 255);
+    color: white;
+    font-size: 15px;
+}
+
+h1 {
+    color:rgb(0, 21, 92);
+}
+.main-header {
+    color:aqua;
+}
+
+#id {
+    color:azure;
+}

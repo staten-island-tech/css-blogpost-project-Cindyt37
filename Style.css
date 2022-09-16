@@ -1,28 +1,39 @@
 body {
     background-image: url(background.jpg);
+    text-align: center;
 }
 
 h1 {
     margin-top: 50px;
     text-align: center;
-    font-size: 35px;
+    font-size: 50px;
 }
 
 mark.Alice-Blue {
     background-color: aliceblue;
     color: rgb(0, 0, 145);
 }
-mark.uh {
+mark.oldlace {
     background-color: oldlace;
 }
 
 h2 {
     text-align: center;
-}
-.main-header {
-    color:aqua;
+    font-size: 35px;
 }
 
-#id {
-    color:azure;
+.posts {
+    text-align: center;
+    border: 10px solid rgb(227, 248, 255);
+}
+#brain {
+    width: 250px;
+    height: 251px;
+}
+#HW {
+    width: 720px;
+    height: 405px;
+}
+#nope {
+
 }

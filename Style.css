@@ -1,39 +1,45 @@
 body {
     background-image: url(background.jpg);
     text-align: center;
+    font-variant-caps: all-petite-caps;
+    font-family: 'Noto Sans Buhid', sans-serif;
 }
 
 h1 {
     margin-top: 50px;
     text-align: center;
-    font-size: 50px;
+    font-size: 75px;
 }
 
 mark.Alice-Blue {
     background-color: aliceblue;
     color: rgb(0, 0, 145);
 }
-mark.oldlace {
+.oldlace {
     background-color: oldlace;
+    width:fit-content;
+    margin: 0 auto;
 }
 
 h2 {
     text-align: center;
-    font-size: 35px;
+    font-size: 50px;
+    font-family: fantasy;
 }
 
 .posts {
     text-align: center;
-    border: 10px solid rgb(227, 248, 255);
-}
-#brain {
-    width: 250px;
-    height: 251px;
+    border: 10px solid rgb(181, 236, 255);
 }
 #HW {
-    width: 720px;
-    height: 405px;
+    width: 650px;
+    height: 400px;
 }
 #nope {
-
+    width: 664.5px;
+    height: 387px;
+}
+#links {
+    font-size: 50px;
+    margin-bottom: 20px;
 }

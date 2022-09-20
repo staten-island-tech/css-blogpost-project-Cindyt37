@@ -25,21 +25,28 @@ h2 {
     font-size: 50px;
     font-family: 'Bungee Spice', cursive;
 }
-
+.preview-texts {
+    font-size:30px;
+    background-color: rgb(240, 236, 214);
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 h6{
     font-size: 30px;
-    background-color: cadetblue;
+    background-color: rgb(138, 173, 173);
     margin: 10px;
 }
 .posts {
     text-align: center;
-    border: 10px solid rgb(181, 236, 255);
+    border: 20px solid rgb(167, 221, 255);
 }
 #HW {
     width: 650px;
     height: 400px;
 }
-#nope {
+#study {
     width: 664.5px;
     height: 387px;
 }
